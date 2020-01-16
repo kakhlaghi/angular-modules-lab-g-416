@@ -1,1 +1,3 @@
-function MainController
+function MainController(){
+  
+}
