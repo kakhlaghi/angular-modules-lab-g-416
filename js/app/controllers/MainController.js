@@ -3,3 +3,4 @@ function MainController(){
 }
 
 angular
+.module()
