@@ -3,4 +3,4 @@ function MainController(){
 }
 
 angular
-.module()
+.module('app')
