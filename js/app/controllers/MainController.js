@@ -6,4 +6,5 @@ angular
 .module('app')
 .controller('MainController', MainController);
 
-var module = angular.module('app')
+var module = angular.module('app');
+module = 
