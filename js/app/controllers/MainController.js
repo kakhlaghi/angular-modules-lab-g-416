@@ -4,4 +4,4 @@ function MainController(){
 
 angular
 .module('app')
-.cont
+.controller(MainController, )
