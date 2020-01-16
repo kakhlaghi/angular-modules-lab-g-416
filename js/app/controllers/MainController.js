@@ -7,4 +7,4 @@ angular
 .controller('MainController', MainController);
 
 var module = angular.module('app');
-module.controller 
+module.controller(exampleController)
